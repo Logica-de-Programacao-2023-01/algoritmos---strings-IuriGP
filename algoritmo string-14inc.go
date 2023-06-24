@@ -11,17 +11,21 @@ func main() {
 	fmt.Println("escreva a string:")
 	fmt.Scan(&x)
 
-	_, err:=strconv.Atoi(x)
-	if err != nil {
-		fmt.Printf("A string %s não é uma sequencia")
-	}else{
-		numeros:=strings.Split(x,"")
-		decresente:=true
-		for i:=1;i<len(numeros);i++{
+	x = strings.TrimSpace(x)
+	numeros := strings.Fields(x)
 
+	decrescente := true
+	for i := 0; i < len(numeros)-1; i++ {
+		numeroAtual, _ := strconv.Atoi(numeros[i])
+		numeroProximo, _ := strconv.Atoi(numeros[i+1])
+
+		if numeroAtual <= numeroProximo {
+			decrescente = false
 		}
 	}
-}
-if decresente{
-	fmt.println()
+	if decrescente == true {
+		fmt.Println("A sequência é numérica decrescente.")
+	} else {
+		fmt.Println("A sequência não é numérica decrescente.")
+	}
 }

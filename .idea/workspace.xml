@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90ac5c4e-5e93-4aea-a168-c63ac5809a20" name="Changes" comment="" />
+    <list default="true" id="90ac5c4e-5e93-4aea-a168-c63ac5809a20" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/algoritmo string-11.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoritmo string-11inc.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoritmo string-14inc.go" beforeDir="false" afterPath="$PROJECT_DIR$/algoritmo string-14inc.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoritmo string-5inc.go" beforeDir="false" afterPath="$PROJECT_DIR$/algoritmo string-5.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,70 +35,70 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
-    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/iuri.gp/repos/algoritmos---strings-IuriGP&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultGoTemplateProperty": "Go File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "C:/Users/Admin/repos/algoritmos---strings-IuriGP",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)"
   }
-}</component>
-  <component name="RunManager" selected="Go Build.go build algoritmo string-16inc.go">
-    <configuration name="go build algoritmo string-11.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager" selected="Go Build.go build algoritmo string-15.go">
+    <configuration name="go build algoritmo string-10.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---strings-IuriGP" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/algoritmo string-11.go" />
+      <filePath value="$PROJECT_DIR$/algoritmo string-10.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build algoritmo string-16inc.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build algoritmo string-13.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---strings-IuriGP" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/algoritmo string-16inc.go" />
+      <filePath value="$PROJECT_DIR$/algoritmo string-13.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build algoritmo string-2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build algoritmo string-14.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---strings-IuriGP" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/algoritmo string-2.go" />
+      <filePath value="$PROJECT_DIR$/algoritmo string-14.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build algoritmo string-3.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build algoritmo string-15.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---strings-IuriGP" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/algoritmo string-3.go" />
+      <filePath value="$PROJECT_DIR$/algoritmo string-15.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build algoritmo string-4.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build algoritmo string-7.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---strings-IuriGP" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/algoritmo string-4.go" />
+      <filePath value="$PROJECT_DIR$/algoritmo string-7.go" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build algoritmo string-16inc.go" />
-        <item itemvalue="Go Build.go build algoritmo string-11.go" />
-        <item itemvalue="Go Build.go build algoritmo string-3.go" />
-        <item itemvalue="Go Build.go build algoritmo string-2.go" />
-        <item itemvalue="Go Build.go build algoritmo string-4.go" />
+        <item itemvalue="Go Build.go build algoritmo string-15.go" />
+        <item itemvalue="Go Build.go build algoritmo string-14.go" />
+        <item itemvalue="Go Build.go build algoritmo string-10.go" />
+        <item itemvalue="Go Build.go build algoritmo string-7.go" />
+        <item itemvalue="Go Build.go build algoritmo string-13.go" />
       </list>
     </recent_temporary>
   </component>
